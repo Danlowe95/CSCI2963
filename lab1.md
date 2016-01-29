@@ -22,10 +22,10 @@
     [Image 8](images/regex8.png)
 
     Puzzle:
-    [Image 1](images/puzzle1.png)
-    [Image 2](images/puzzle2.png)
-    [Image 3](images/puzzle3.png)
-    [Image 4](images/puzzle4.png)
+    1 [Image1](images/puzzle1.png)
+    2[Image 2](images/puzzle2.png)
+    3 [Image 3](images/puzzle3.png)
+    4 [Image 4](images/puzzle4.png)
 
 
 Part F: Blocky
