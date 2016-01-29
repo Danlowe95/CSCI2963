@@ -11,8 +11,7 @@
     -tree installed images/screen_linux_tree.png
 
 ##Part E: Regex
-    Practice Problems:
-    ![Image 1](images/regex1.png)
+    Practice Problems [Image 1](images/regex1.png)
     [Image 2](images/regex2.png)
     1[Image 3](images/regex3.png)
     ![Image 4](images/regex4.png)
