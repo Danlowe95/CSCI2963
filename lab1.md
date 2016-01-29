@@ -12,11 +12,11 @@
 
 ##Part E: Regex
     Practice Problems:
-    [Image 1](images/regex1.png)
+    ![Image 1](images/regex1.png)
     [Image 2](images/regex2.png)
-    [Image 3](images/regex3.png)
-    [Image 4](images/regex4.png)
-    [Image 5](images/regex5.png)
+    1[Image 3](images/regex3.png)
+    ![Image 4](images/regex4.png)
+    ![Image 5](images/regex5.png)
     [Image 6](images/regex6.png)
     [Image 7](images/regex7.png)
     [Image 8](images/regex8.png)
