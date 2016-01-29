@@ -11,7 +11,6 @@ Part D: Linux
     -tree installed images/screen_linux_tree.png
 
 Part E: Regex
-
     Practice Problems 
     
     ![Image 1](images/regex1.png)
