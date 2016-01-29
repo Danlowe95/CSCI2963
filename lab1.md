@@ -12,20 +12,33 @@ Part D: Linux
 
 Part E: Regex
     Practice Problems 
+    
     [Image 1](images/regex1.png)
+    
     [Image 2](images/regex2.png)
+    
     [Image 3](images/regex3.png)
+    
     [Image 4](images/regex4.png)
+    
     [Image 5](images/regex5.png)
+    
     [Image 6](images/regex6.png)
+    
     [Image 7](images/regex7.png)
+    
     [Image 8](images/regex8.png)
+    
 
     Puzzle:
-    1 [Image1](images/puzzle1.png)
-    2[Image 2](images/puzzle2.png)
-    3 [Image 3](images/puzzle3.png)
-    4 [Image 4](images/puzzle4.png)
+    
+    [Image 1](images/puzzle1.png)
+    
+    [Image 2](images/puzzle2.png)
+    
+    [Image 3](images/puzzle3.png)
+    
+    [Image 4](images/puzzle4.png)
 
 
 Part F: Blocky
