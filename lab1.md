@@ -30,3 +30,7 @@ Puzzle:
 
 Part F: Blocky
     [Solution](images/blocky.png)
+
+
+
+A project that interests me is learning to develop in VR.  I have done some research and am deciding between Unity and Unreal engine to begin my VR developement. I have used Unity before, but it seems Unreal engine has better VR support and extensibility, and utilizes C++.  I will be doing more research into this topic and hopefully starting tutorials soon.
