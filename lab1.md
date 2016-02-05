@@ -8,7 +8,7 @@
 
 Part D: Linux
     -practiced commands.
-    -tree installed images/screen_linux_tree.png
+    -tree installed ![image](images/screen_linux_tree.png)
 
 Part E: Regex
     Practice Problems 
