@@ -10,12 +10,12 @@ If a project does not have a license, the code is "all-rights reserved" to the w
 
 ##Read the Failure to follow the Open System Model Section of Why the Web beat Gopher
 
+
 I agree with the claim that Gopher failed because of a lack of open-source development.  In the end, Gopher had a weaker workforce and was unable to get things done, and garner support, at the rate that the Web was able to due to crowdsourcing/open source.  The Web gained traction due to a large community contributing towards one project, working to improve the infrastructure that they themselves were using.
 
 
-Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
-
-Can you justify why such a license is chosen (Justification for ONE is enough).
+##Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
+##Can you justify why such a license is chosen (Justification for ONE is enough).
 
 #SailfishOS
 SailfishOS is primarily an open-source OS for phones, with the "benefit" that users can contribute to the OS and change it to how they want it.  Some parts of the OS, however, are not open source.  This includes many UI features and sme specific apps such as contacts, messaging, phone, etc.  It appears that users, if they so choose, could create all of these from scratch and use them instead of the proprietary version.  Sailfish (Jolla) made these proprietary as a source of revenue for their company, as a phone that is 100% open source would not generate revenue.  Most users appear ok with this, as the proprietary features were developed solely by Jolla and are replaceable by user created software.  There are projects (Nemo being one of them) that aim to create open-source versions of these features.
