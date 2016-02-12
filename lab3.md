@@ -8,8 +8,8 @@ danml@Athena:~/code/test/lab3part1$ git log --graph --oneline --decorate
 * 9ce8149 first
 
 
-![tut1](images/1.png)
-![tut2](images/2.png)
-![tut3](images/3.png)
-![tut4](images/4.png)
+![tut1](images/lab3/1.png)
+![tut2](images/lab3/2.png)
+![tut3](images/lab3/3.png)
+![tut4](images/lab3/4.png)
 IBEIS: https://rcos.io/projects/Danlowe95/IBEIS-web/profile
