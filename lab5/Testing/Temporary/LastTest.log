@@ -1,0 +1,164 @@
+Start testing: Feb 26 13:35 EST
+----------------------------------------------------------
+1/9 Testing: TutorialRuns
+1/9 Test: TutorialRuns
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "25"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialRuns" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Feb 26 13:35 EST
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: TutorialUsage
+2/9 Test: TutorialUsage
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialUsage" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+/home/danml/code/CSCI2963/lab5/Tutorial Version 1.0
+Usage: /home/danml/code/CSCI2963/lab5/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Feb 26 13:35 EST
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/9 Testing: TutorialComp4
+3/9 Test: TutorialComp4
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "4"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp4" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[4 is 2
+]
+"TutorialComp4" end time: Feb 26 13:35 EST
+"TutorialComp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: TutorialComp9
+4/9 Test: TutorialComp9
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "9"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp9" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 9 is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[9 is 3
+]
+"TutorialComp9" end time: Feb 26 13:35 EST
+"TutorialComp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: TutorialComp5
+5/9 Test: TutorialComp5
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "5"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp5" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 5 is 2.23607
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[5 is 2.236
+]
+"TutorialComp5" end time: Feb 26 13:35 EST
+"TutorialComp5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: TutorialComp7
+6/9 Test: TutorialComp7
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "7"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp7" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 7 is 2.64575
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[7 is 2.645
+]
+"TutorialComp7" end time: Feb 26 13:35 EST
+"TutorialComp7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: TutorialComp25
+7/9 Test: TutorialComp25
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "25"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp25" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Feb 26 13:35 EST
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: TutorialComp-25
+8/9 Test: TutorialComp-25
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "-25"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp-25" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialComp-25" end time: Feb 26 13:35 EST
+"TutorialComp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: TutorialComp0.0001
+9/9 Test: TutorialComp0.0001
+Command: "/home/danml/code/CSCI2963/lab5/Tutorial" "0.0001"
+Directory: /home/danml/code/CSCI2963/lab5
+"TutorialComp0.0001" start time: Feb 26 13:35 EST
+Output:
+----------------------------------------------------------
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialComp0.0001" end time: Feb 26 13:35 EST
+"TutorialComp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 26 13:35 EST

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danml/code/CSCI2963/lab5/src/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/danml/code/CSCI2963/lab5/src/TutorialConfig.h
+MathFunctions.h
+/home/danml/code/CSCI2963/lab5/src/MathFunctions.h
+
+MathFunctions.h
+
+TutorialConfig.h
+

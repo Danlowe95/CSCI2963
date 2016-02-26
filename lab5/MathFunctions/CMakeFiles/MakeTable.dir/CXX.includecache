@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danml/code/CSCI2963/lab5/src/MathFunctions/MakeTable.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

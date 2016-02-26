@@ -1,0 +1,52 @@
+Determining if the function log exists failed with the following output:
+Change Dir: /home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1496902406/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1496902406.dir/build.make CMakeFiles/cmTryCompileExec1496902406.dir/build
+make[1]: Entering directory '/home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1496902406.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log   -o CMakeFiles/cmTryCompileExec1496902406.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.2/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘log’
+/usr/share/cmake-3.2/Modules/CheckFunctionExists.c:3:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTryCompileExec1496902406
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1496902406.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log    CMakeFiles/cmTryCompileExec1496902406.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1496902406 -rdynamic 
+CMakeFiles/cmTryCompileExec1496902406.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `log'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec1496902406.dir/build.make:88: recipe for target 'cmTryCompileExec1496902406' failed
+make[1]: Leaving directory '/home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec1496902406] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec1496902406/fast' failed
+make: *** [cmTryCompileExec1496902406/fast] Error 2
+
+
+Determining if the function exp exists failed with the following output:
+Change Dir: /home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2695196923/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2695196923.dir/build.make CMakeFiles/cmTryCompileExec2695196923.dir/build
+make[1]: Entering directory '/home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2695196923.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=exp   -o CMakeFiles/cmTryCompileExec2695196923.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.2/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘exp’
+/usr/share/cmake-3.2/Modules/CheckFunctionExists.c:3:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTryCompileExec2695196923
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2695196923.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=exp    CMakeFiles/cmTryCompileExec2695196923.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2695196923 -rdynamic 
+CMakeFiles/cmTryCompileExec2695196923.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `exp'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec2695196923.dir/build.make:88: recipe for target 'cmTryCompileExec2695196923' failed
+make[1]: Leaving directory '/home/danml/code/CSCI2963/lab5/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec2695196923] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec2695196923/fast' failed
+make: *** [cmTryCompileExec2695196923/fast] Error 2
+
+
